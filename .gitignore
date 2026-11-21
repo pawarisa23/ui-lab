@@ -1,0 +1,12 @@
+
+# Libraries and build output
+target/
+.venv/
+node_modules/
+__pycache__/
+cypress/cypress/downloads/
+
+# Files added by editors
+.DS_Store
+.idea/
+.vscode/
